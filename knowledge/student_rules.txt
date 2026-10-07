@@ -1,0 +1,20 @@
+Student Performance Rules
+
+Rule 1:
+Students with attendance above 75% and study hours above 4 hours per day
+are generally considered likely to pass.
+
+Rule 2:
+Students with attendance below 60% are considered high risk.
+
+Rule 3:
+Students with attendance above 80% and study hours above 6 hours per day
+are considered strong performers.
+
+Rule 4:
+Students with attendance between 60% and 75% require improvement
+in either attendance or study hours.
+
+Rule 5:
+Students studying less than 2 hours per day are considered at risk
+regardless of attendance.
